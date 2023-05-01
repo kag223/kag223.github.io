@@ -3,7 +3,12 @@ layout: wide_default.html
 ---
 
 ## Part 1: EDA
-
+ ```
+    ---
+    layout: wide_default
+    ---    
+    
+    ```
 
 ```python
 import pandas as pd
