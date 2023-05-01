@@ -25,7 +25,7 @@ Some of my work running regressions and intrepretting the results.
 
 ---
 
-_**[Term Project: The Impact of COVID-19 on the Supply Chain]([https://jerseyk.github.io/Final-Project_Sunset-website/](https://jerseyk-final-project-sunset-website-welcome-eoomf2.streamlit.app/))**_
+_**[Term Project: The Impact of COVID-19 on the Supply Chain](https://jerseyk-final-project-sunset-website-welcome-eoomf2.streamlit.app/)**_
 
 A final group project done using the skills I learned in Data Science for Finance (FIN 377). My team and I utilized CompuStat data as well as accompanying accounting data to analyze the impact the pandemic had on the supply chain through 10K filings. We cleaned and used three datasets to create a final dataset that we displayed visually for analysis on a dashboard using streamlit.io. 
 
