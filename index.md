@@ -12,8 +12,6 @@ I am a current senior at Lehigh Univeristy double majoring in Finance and Busine
 
 _**[Sentiment Value Analysis of 10-Ks](midterm_report_summary)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -27,12 +25,6 @@ Or: The process that created this page can be used to show off your whole midter
 ---
 
 _**[Eventual team project](https://jerseyk.github.io/Final-Project_Sunset-website/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
