@@ -1,14 +1,9 @@
 ---
-layout: wide_default.html
+layout: wide_default
 ---
 
 ## Part 1: EDA
- ```
-    ---
-    layout: wide_default
-    ---    
-    
-    ```
+
 
 ```python
 import pandas as pd
