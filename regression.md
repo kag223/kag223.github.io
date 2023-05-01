@@ -4,11 +4,6 @@
 
 ## Part 1: EDA
 
-_Insert cells as needed below to write a short EDA/data section that summarizes the data for someone who has never opened it before._ 
-- Answer essential questions about the dataset (observation units, time period, sample size, many of the questions above) 
-- Note any issues you have with the data (variable X has problem Y that needs to get addressed before using it in regressions or a prediction model because Z)
-- Present any visual results you think are interesting or important
-
 
 ```python
 import pandas as pd
@@ -606,8 +601,8 @@ plt.show()
 ```
 
 
+<img src="images/output_5_0.png.jpg?raw=true"/>
     
-![png](output_5_0.png)
     
 
 
@@ -619,7 +614,7 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+<img src="images/output_6_0.png.jpg?raw=true"/>
     
 
 
