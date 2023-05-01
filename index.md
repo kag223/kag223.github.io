@@ -1,6 +1,7 @@
 ## About Me
 
 I am a current senior at Lehigh Univeristy double majoring in Finance and Business Information Systems with a minor in Graphic Design.
+One of my main interests is seeing how we can understand data to find trends and how we can use that to make predictions.
 
 
 
