@@ -15,7 +15,7 @@ _**[Sentiment Value Analysis of 10-Ks](midterm_report_summary)**_
 
 ---
 
-_**[Regression Practice](Regression)**_
+_**[Regression Practice](regression)**_
 
 Some of my work running regressions and intrepretting the results.
 
