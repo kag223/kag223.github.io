@@ -13,8 +13,6 @@ One of my main interests is seeing how we can understand data to find trends and
 
 _**[Sentiment Value Analysis of 10-Ks](midterm_report_summary)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 _**[Regression Practice](Regression)**_
