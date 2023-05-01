@@ -1,5 +1,5 @@
 ---
-layout: wide_default
+layout: wide_default.html
 ---
 
 ## Part 1: EDA
