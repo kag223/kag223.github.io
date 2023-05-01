@@ -16,9 +16,9 @@ _**[Sentiment Value Analysis of 10-Ks](midterm_report_summary)**_
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](Regression interpretation)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+Some of my work running regressions and intrepretting the results.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -26,7 +26,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Eventual team project](https://jerseyk.github.io/Final-Project_Sunset-website/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
