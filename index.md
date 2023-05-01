@@ -10,7 +10,7 @@ I am a current senior at Lehigh Univeristy double majoring in Finance and Busine
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Sentiment Value Analysis of 10-Ks](midterm_summary)**_
+_**[Sentiment Value Analysis of 10-Ks](report_sum)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
