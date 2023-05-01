@@ -1,8 +1,6 @@
- ```
-    ---
+---
     layout: wide_default
-    ---    
- ```
+---    
 
 ## Part 1: EDA
 
@@ -627,8 +625,7 @@ plt.show()
 
 ## Part 2: Running Regressions
 
-**Run these regressions on the RAW data, even if you found data issues that you think should be addressed.**
-
+```
 _Insert cells as needed below to run these regressions. Note that $i$ is indexing a given house, and $t$ indexes the year of sale._ 
 
 1. $\text{Sale Price}_{i,t} = \alpha + \beta_1 * \text{v_Lot_Area}$
@@ -642,8 +639,7 @@ _Insert cells as needed below to run these regressions. Note that $i$ is indexin
     - I got an R2 of 0.877 with just "5" variables. How close can you get? I won't be shocked if someone beats that!
     
 
-**Bonus formatting trick:** Instead of reporting all regressions separately, report all seven regressions in a _single_ table using `summary_col`.
-
+```
 
 
 ```python
