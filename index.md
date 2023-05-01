@@ -25,7 +25,7 @@ Some of my work running regressions and intrepretting the results.
 
 ---
 
-_**[Eventual team project](https://jerseyk.github.io/Final-Project_Sunset-website/)**_
+_**[Eventual team project]([https://jerseyk.github.io/Final-Project_Sunset-website/](https://jerseyk-final-project-sunset-website-welcome-eoomf2.streamlit.app/))**_
 
 
 
