@@ -40,15 +40,16 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Career wise my goal is to work in the sports industry. I am really intereted in sports analytics, mostly baseball statistics. They make the game more exciting to watch!
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- Reading
+- Walks
+- Watching baseball
+- Going to museums
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
