@@ -16,11 +16,11 @@ _**[Sentiment Value Analysis of 10-Ks](midterm_report_summary)**_
 
 ---
 
-_**[Regression Practice](Regression interpretation)**_
+_**[Regression Practice](Regression)**_
 
 Some of my work running regressions and intrepretting the results.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/output_5_0.png?raw=true"/>
 
 ---
 
